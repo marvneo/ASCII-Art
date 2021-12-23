@@ -54,7 +54,7 @@ def print_ASCII(intensity_matrix):
         temp = []
         for col in row:
             #print(round(col/3.695))
-            temp.append(ascii[round(col/3.695)])
+            temp.append(ascii[round((len(ascii)-col)/3.695)])
         output.append(temp)
 
     for row in output:
