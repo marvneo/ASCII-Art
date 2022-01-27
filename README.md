@@ -1,4 +1,4 @@
-# ASCII-Art
+# ASCII Art
 ## This program creates an ASCII art of a picture.
 
 ## Instructions
