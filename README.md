@@ -11,6 +11,7 @@ P.S. Try zooming out (usually key "CTRL" + "-") if the ASCII art is too big for 
 
 ## Example input and output
  Input of a Shiba Inu
+ 
 ![shiber](https://user-images.githubusercontent.com/60399677/146659404-28b22764-c3d7-4055-8614-70d268e9d861.jpeg)
 
  Output
