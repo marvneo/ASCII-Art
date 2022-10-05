@@ -1,5 +1,5 @@
 # ASCII Art
- This is a siimple program that creates an ASCII art of a picture.
+ This is a simple program that creates an ASCII art of a picture.
 
 ## To run and use
  1. Download the file.
